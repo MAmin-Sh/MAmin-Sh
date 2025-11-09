@@ -1,15 +1,22 @@
 ## Hi there 👋
 
-
-## درباره من
-برنامه‌نویس و توسعه‌دهنده علاقه‌مند به ساخت راه‌حل‌های پایدار و بهینه. تمرکزم بر توسعه نرم‌افزارهایی است که اثرگذار و قابل اعتماد باشند.
-
-## مهارت‌ها
-- **زبان‌ها:** #Python, C++  
-- **فریم‌ورک‌ها و ابزارها:** Django, Git, Docker  
-- **تخصص‌ها:** توسعه وب، بهینه‌سازی الگوریتم‌ها، کدنویسی تمیز و مقیاس‌پذیر  
-
-## تماس با من
-[LinkedIn](#) | [Telegram](#) | [Email](a2954794@gmail.com)  
+### About Me
+I'm a passionate backend developer focused on building **scalable, reliable, and efficient software solutions**. I enjoy crafting systems that are **impactful, maintainable, and optimized**.
 
 ---
+
+### Skills
+- **Languages:** Python,
+- **Frameworks & Tools:** Django, Git,
+- **Specialties:** Web development, algorithm optimization, clean and maintainable code, scalable backend architecture  
+
+---
+
+### Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#) 
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a2954794@gmail.com)
+
+---
+
+
