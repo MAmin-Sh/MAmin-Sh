@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**MAmin-Sh/MAmin-Sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## درباره من
+برنامه‌نویس و توسعه‌دهنده علاقه‌مند به ساخت راه‌حل‌های پایدار و بهینه. تمرکزم بر توسعه نرم‌افزارهایی است که اثرگذار و قابل اعتماد باشند.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## مهارت‌ها
+- **زبان‌ها:** #Python, C++  
+- **فریم‌ورک‌ها و ابزارها:** Django, Git, Docker  
+- **تخصص‌ها:** توسعه وب، بهینه‌سازی الگوریتم‌ها، کدنویسی تمیز و مقیاس‌پذیر  
+
+## تماس با من
+[LinkedIn](#) | [Telegram](#) | [Email](a2954794@gmail.com)  
+
+---
